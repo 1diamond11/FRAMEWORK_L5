@@ -1,0 +1,10 @@
+[
+    {
+      "id": 1,
+      "fullName": "Erich Gamma",
+      "alive": true,
+      "born": "1961-03-13T00:00:00Z",
+      "notableWorks": ["Design Patterns"],
+      "patternIds": [1]
+    }
+  ]
