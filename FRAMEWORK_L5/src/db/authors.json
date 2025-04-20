@@ -1,0 +1,10 @@
+[
+    {
+      "id": 1,
+      "name": "Dmitriy SLysh",
+      "alive": true,
+      "born": "2006-04-27T00:00:00Z",
+      "notableWorks": ["Patterns maker"],
+      "patternIds": [1]
+    }
+  ]

@@ -1,0 +1,10 @@
+[
+    {
+      "id": 1,
+      "name": "Singleton",
+      "category": "Creational",
+      "isRecommended": true,
+      "createdAt": "2025-04-01T10:00:00Z",
+      "languages": ["Java"]
+    }
+  ]
